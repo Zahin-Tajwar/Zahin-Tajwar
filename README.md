@@ -18,8 +18,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;&nbsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zahin-Tajwar&show_icons=true" alt="Zahin-Tajwar" /></p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
   <a href="mailto:dewanmdzahintajwar@gmail.com"><img src="https://img.shields.io/badge/-dewanmdzahintajwar@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
