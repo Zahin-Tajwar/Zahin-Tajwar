@@ -1,3 +1,4 @@
+
 ## 👋 &nbsp;Hey there! I am Zahin Tajwar.
 
 ![GitHub followers](https://img.shields.io/github/followers/Zahin-Tajwar?logo=GitHub&style=for-the-badge)
@@ -12,11 +13,14 @@
 ### I am on track to learn,
 #### Software Development, Graphic Design, SEO, Data Analysis and Machine Learning.
 
-### 🛠 &nbsp;Language & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;&nbsp;
+### 🛠 &nbsp;Programming Languages
+**Advanced:** None👨\
+**Intermidiate:** [Python](https://www.python.org/)\
+**Introductory:** [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+### 🛠 &nbsp;Programming Tools
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
