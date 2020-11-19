@@ -16,7 +16,7 @@
 ### 🛠 &nbsp;Programming Languages
 **Advanced:** None👨\
 **Intermidiate:** [Python](https://www.python.org/)\
-**Introductory:** [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+**Introductory:** None👨
 ### 🛠 &nbsp;Programming Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
