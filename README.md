@@ -15,7 +15,7 @@
 
 ### 🛠 &nbsp;Programming Languages
 **Good Enough:** [Python](https://www.python.org/)\
-**Introductory:** None👨
+**Introductory:** [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss)
 
 ### 🛠 &nbsp;Programming Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
