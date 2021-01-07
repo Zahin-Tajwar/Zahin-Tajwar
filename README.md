@@ -14,9 +14,9 @@
 #### Software Development, Graphic Design, SEO, Data Analysis and Machine Learning.
 
 ### 🛠 &nbsp;Programming Languages
-**Advanced:** None👨\
-**Intermidiate:** [Python](https://www.python.org/)\
+**Good Enough:** [Python](https://www.python.org/)\
 **Introductory:** None👨
+
 ### 🛠 &nbsp;Programming Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
