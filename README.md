@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Zahin-Tajwar?logo=GitHub&style=for-the-badge)
 
 ### 👨🏻‍💻 &nbsp;About Me
-#### I’m 13 years old Student from Bangladesh.
+#### I’m 13 years old Student from Bangladesh who know how to write some codes.
 #### I’m planning to do some freelance and build my career as a Software Engineer.
 #### 🌱 I’m currently improving my Python skills.
 #### 💡 In my free time, I explore new technologies & work on my personal projects.
