@@ -5,9 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 #### I’m 13 years old Student from Bangladesh who know how to write some codes.
-#### I’m planning to do some freelance and build my career as a Software Engineer.
-#### 🌱 I’m currently improving my Python skills.
-#### 💡 In my free time, I explore new technologies & work on my personal projects.
+#### 🌱 I’m currently learning different programing languages.
+#### 💡 In my free time, I work on my personal projects, listen to some music, watch memes & youtube videos.
 #### ✉️ You can send me an email at dewanmdzahintajwar@gmail.com ! I’ll try to respond as soon as I can.
 
 ### I am on track to learn,
