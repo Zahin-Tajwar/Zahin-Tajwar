@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Zahin-Tajwar?logo=GitHub&style=for-the-badge)
 
 ### 👨🏻‍💻 &nbsp;About Me
-#### I’m 13 years old Student from Bangladesh who know how to write some codes.
+#### I’m 13 years old Student from Bangladesh who can write some codes.
 #### 🌱 I’m currently learning different programing languages.
 #### 💡 In my free time, I work on my Personal Projects, Listen to Some Music, Watch Memes, YouTube Videos & Anime.
 #### ✉️ You can send me an email at dewanmdzahintajwar@gmail.com ! I’ll try to respond as soon as I can.
