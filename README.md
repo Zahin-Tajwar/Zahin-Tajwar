@@ -6,11 +6,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 #### I’m 13 years old Student from Bangladesh who can write some codes.
 #### 🌱 I’m currently learning different programing languages.
-#### 💡 In my free time, I work on my Personal Projects, Listen to Some Music, Watch Memes, YouTube Videos & Anime.
+#### 💡 In my free time, I work on my Personal Projects, Listen to Music, Watch Memes, YouTube Videos & Anime.
 #### ✉️ You can send me an email at dewanmdzahintajwar@gmail.com ! I’ll try to respond as soon as I can.
-
-### I am on track to learn,
-#### Software Development, Graphic Design, SEO, Data Analysis and Machine Learning.
 
 ### 🛠 &nbsp;Programming Languages
 **Good Enough:** [Python](https://www.python.org/)\
