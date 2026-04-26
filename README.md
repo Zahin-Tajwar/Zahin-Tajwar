@@ -21,4 +21,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
   <a href="mailto:dewanmdzahintajwar@gmail.com"><img src="https://img.shields.io/badge/-dewanmdzahintajwar@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="[https://instagram](https://www.instagram.com/_zahinn__)"><img src="https://img.shields.io/badge/-tajwar🧸-D14836?style=flat-square&logo=Intagram"/></a>
+  <a href="https://www.instagram.com/_zahinn__"><img src="https://img.shields.io/badge/-tajwar🧸-8E4585?style=flat-square&logo=Intagram&logoColor=white"/></a>
