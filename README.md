@@ -21,3 +21,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
   <a href="mailto:dewanmdzahintajwar@gmail.com"><img src="https://img.shields.io/badge/-dewanmdzahintajwar@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/_zahinn__">
+  <img src="https://githubusercontent.com" alt="instagram" width="40" height="40" />
+</a>
