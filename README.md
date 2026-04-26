@@ -4,10 +4,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/Zahin-Tajwar?logo=GitHub&style=for-the-badge)
 
 ### 👨🏻‍💻 &nbsp;About Me
-#### I’m a 16-year-old Student from Bangladesh who can somehow write some codes.
-#### 🌱 I’m learning different programming languages and have recently been interested in cyber security.
-#### 💡 In my free time, I work on my Personal Projects, Listen to Music, or Watch Netflix, YouTube, and anime.
+#### I’m an 18 year old Student from Bangladesh who can somehow write some codes.
+#### 🌱 I’m learning different programming languages and is really interested in data science & cyber security.
+#### 💡 In my free time, I work on my personal projects, listen to music, or watch movies, YouTube, and anime.
 #### ✉️ You can send me an email at dewanmdzahintajwar@gmail.com ! I’ll try to respond as soon as I can.
+#### 🌐 Check out my instagram: [@_zahinn__](https://www.instagram.com/_zahinn__)
 
 ### 🛠 &nbsp;Programming Languages
 **Good Enough:** [Python](https://www.python.org/)\
